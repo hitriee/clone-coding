@@ -1,13 +1,14 @@
+## 소개
 ### 기술로 사회에 선한 영향력을 펼치는 개발자 나원경입니다.
 
 <br>
 
-### ✍️ 기술 블로그
+## ✍️ 기술 블로그
 https://ilwol-developer.tistory.com/
 
 <br>
 
-### 📽️ 프로젝트
+## 📽️ 프로젝트
 
 <br>
 
@@ -30,45 +31,52 @@ https://ilwol-developer.tistory.com/
 | 웹, 앱                         | 앱                                                      |
 <br>
 
-### ⚙️ 기술 스킬
+## ⚙️ 기술 스킬
 
 **알고리즘**
 
-Python
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>
 
 **프로젝트**
 
 [Backend] <br>
-DJango
-Node js
+<img src="https://img.shields.io/badge/DJango-092E20?style=for-the-badge&logo=DJango&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"/>
 
 [Frontend] <br>
-HTML/CSS
-SCSS
-Javascript
-Vue.js
-web3 js
-Typescript
-React.js
-FCM (Firebase Cloud Messaging)
-three js
+<img src="https://img.shields.io/badge/HTML-{092E20}?style=for-the-badge&logo={DJango}&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS-{339933}?style=for-the-badge&logo={Node js}&logoColor=white"/>
+<img src="https://img.shields.io/badge/SCSS-{092E20}?style=for-the-badge&logo={DJango}&logoColor=white"/>
+<img src="https://img.shields.io/badge/Javascript-{339933}?style=for-the-badge&logo={Node js}&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Vue.js-{092E20}?style=for-the-badge&logo={DJango}&logoColor=white"/>
+<img src="https://img.shields.io/badge/web3 js-{339933}?style=for-the-badge&logo={Node js}&logoColor=white"/>
+<img src="https://img.shields.io/badge/Solidity-{339933}?style=for-the-badge&logo={Node js}&logoColor=white"/>
+
+
+<img src="https://img.shields.io/badge/Typescript-{092E20}?style=for-the-badge&logo={DJango}&logoColor=white"/>
+<img src="https://img.shields.io/badge/React.js-{339933}?style=for-the-badge&logo={Node js}&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/FCM (Firebase Cloud Messaging)-{092E20}?style=for-the-badge&logo={DJango}&logoColor=white"/>
+<img src="https://img.shields.io/badge/three js-{339933}?style=for-the-badge&logo={Node js}&logoColor=white"/>
 
 **학습 중**
 
-Dart
-Flutter
+<img src="https://img.shields.io/badge/Dart-{092E20}?style=for-the-badge&logo={DJango}&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flutter-{339933}?style=for-the-badge&logo={Node js}&logoColor=white"/>
+
 
 <br>
 
-### 🗣️ 협업툴
-Notion
-Git / GitHub / GitLab
-Jira
-Mattermost
-Slack
-Discord
-Webex
-Zoom
-Google meet
+## 🗣️ 사용해본 협업툴
+
+| 협업툴                            | 목적                                         | 참고사항                                                     |
+| --------------------------------- | -------------------------------------------- | ------------------------------------------------------------ |
+| Notion                            | 일정 관리, 자료 관리                         | -                                                            |
+| Google Drive                      | 자료 정리                                    | -                                                            |
+| Git/GitLab/Github                 | 형상 관리, 프로젝트 진행상황 관리, 자료 관리 | cli 이용<br />Issue, merge request (pull request) 템플릿 작성, 이용<br /> |
+| Jira                              | 일정 관리, 프로젝트 진행상황 관리            | 스프린트, 이슈 등록, 검색                                    |
+| Mattermost, Slack                 | 소통                                         | Gitlab, Jira와 연동                                          |
+| Discord, Webex, Zoom, Google Meet | 소통                                         | -                                                            |
 
 
