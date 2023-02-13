@@ -1,10 +1,4 @@
-> 자세히 보고 싶은 항목을 클릭해주세요
-
-<details>
- <summary>
-  <h2> 📽️ 프로젝트 </h2>
- </summary>
- <div markdown="1">
+## 📽️ 프로젝트
 
 <br>
 
@@ -26,12 +20,9 @@
 | Github 바로가기 (Private 상태) | [Github 바로가기](https://github.com/4ilet/Find_Toilet) |
 | 웹, 앱                         | 앱                                                      |
 <br>
-  </div>
- </details>
+
  
- <details>
- <summary> <h2>⚙️ 기술 스킬</h2></summary>
- <div markdown="1">
+## ⚙️ 기술 스킬
 
 | Algorithm | Backend | Frontend | Communication tool |
 | --------- | ------- | -------- | ------------------ |
@@ -42,9 +33,15 @@
 > Solidity 로고 저작자 : Ethereum Foundation <br>
 > Git 로고 저작자 : Jason Long <br> 
 
+<br>
+
 ### 학습 중
 
 <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=Dart&logoColor=white"/> <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white"/>
 
- </div>
- </details>
+<br>
+
+### 1일 1알고리즘 진행 중!! 
+[문제 풀이 깃허브](https://github.com/yeolsim2hajo/Team_hard)
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=pubhan35" /> <img src="http://mazandi.herokuapp.com/api?handle=pubhan35&theme=warm"/>  <br>
+
