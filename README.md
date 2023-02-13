@@ -7,7 +7,7 @@
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | 2022.07 ~ 2022.08 (7주)                                      | 2022.08 ~ 2022.10 (7주)                                      | 2022.10 ~ 2022.11 (6주)                                      |
 | 태블릿과 웹에서 사용 가능한 공교육 보조 플랫폼 (교사용/학생용) | NFT를 이용한 멸종 위기 동물 보호 관심 재고 및 기부 독려 사이트 | 하고 싶은 이야기를 풍선에 담아 날리는 위치 기반 익명 커뮤니티 |
-| [Github 바로가기](https://github.com/hitriee/EduColab)       | [Github 바로가기](https://github.com/hitriee/Enimal)         | [Github 바로가기](https://github.com/hitriee/fairytail)      |
+| [Repository 바로가기](https://github.com/hitriee/EduColab)       | [Repository 바로가기](https://github.com/hitriee/Enimal)         | [Repository 바로가기](https://github.com/hitriee/fairytail)      |
 
 <br>
 
@@ -17,7 +17,7 @@
 | ------------------------------ | ------------------------------------------------------- |
 | 2023.01 ~ 2023.02 (7주, 예정)  | 2023.01 ~ 2023.03 (7주, 예정)                            |
 |                                | 원하는 위치 주변의 화장실을 표시해주는 서비스           |
-| Github 바로가기 (Private 상태) | [Github 바로가기](https://github.com/4ilet/Find_Toilet) |
+| Repository 바로가기 (Private 상태) | [Repository 바로가기](https://github.com/4ilet/Find_Toilet) |
 | 웹, 앱                         | 앱                                                      |
 <br>
 
@@ -42,6 +42,6 @@
 <br>
 
 ### 1일 1알고리즘 진행 중!! 
-[문제 풀이 깃허브](https://github.com/yeolsim2hajo/Team_hard)
+[문제 풀이 Repository](https://github.com/yeolsim2hajo/Team_hard) <br><br>
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=pubhan35" /> <img src="http://mazandi.herokuapp.com/api?handle=pubhan35&theme=warm"/>  <br>
 
