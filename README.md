@@ -42,6 +42,6 @@
 <br>
 
 ### 1일 1알고리즘 진행 중!! 
-[문제 풀이 Repository](https://github.com/yeolsim2hajo/Team_hard) <br><br>
+[문제 풀이 Repository](https://github.com/hitriee/problem_solving) <br><br>
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=pubhan35" /> <img src="http://mazandi.herokuapp.com/api?handle=pubhan35&theme=warm"/>  <br>
 
