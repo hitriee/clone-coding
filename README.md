@@ -3,25 +3,24 @@
 <br>
 
 **🏁 완료한 프로젝트**
-| Educolab (에듀콜라)                                          | Enimal (에니멀)                                              | 동하책                                                       |
-| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| 2022.07 ~ 2022.08 (7주)                                      | 2022.08 ~ 2022.10 (7주)                                      | 2022.10 ~ 2022.11 (6주)                                      |
-| 태블릿과 웹에서 사용 가능한 공교육 보조 플랫폼 (교사용/학생용) | NFT를 이용한 멸종 위기 동물 보호 관심 재고 및 기부 독려 사이트 | 하고 싶은 이야기를 풍선에 담아 날리는 위치 기반 익명 커뮤니티 |
-| [Repository 바로가기](https://github.com/hitriee/EduColab)       | [Repository 바로가기](https://github.com/hitriee/Enimal)         | [Repository 바로가기](https://github.com/hitriee/fairytail)      |
+| Educolab (에듀콜라)                                          | Enimal (에니멀)                                              | 동하책                                                       | 화장실을 찾아서                                         |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------- |
+| 2022.07 ~ 2022.08 (7주)                                      | 2022.08 ~ 2022.10 (7주)                                      | 2022.10 ~ 2022.11 (6주)                                      | 2023.01 ~ 2023.08 (28주)                            |
+| 태블릿과 웹에서 사용 가능한 공교육 보조 플랫폼 (교사용/학생용) | NFT를 이용한 멸종 위기 동물 보호 관심 재고 및 기부 독려 사이트 (웹) | 하고 싶은 이야기를 풍선에 담아 날리는 위치 기반 익명 커뮤니티 (웹앱) | 원하는 위치 주변의 화장실을 표시해주는 서비스 (앱)          |
+| [Repository 바로가기](https://github.com/hitriee/EduColab)       | [Repository 바로가기](https://github.com/hitriee/Enimal)         | [Repository 바로가기](https://github.com/hitriee/fairytail)      | [Repository 바로가기](https://github.com/4ilet/Find_Toilet)  <br> [Play Store 바로가기](https://play.google.com/store/apps/details?id=com.find_toilet.map.android&hl=en-KR)|
 
 <br>
 
   **🏃진행 중인 프로젝트**
 
-| Bin:goT (빈 곳)                | 화장실을 찾아서                                         |
-| ------------------------------ | ------------------------------------------------------- |
-| 2023.01 ~ 2023.02 (7주, 예정)  | 2023.01 ~ 2023.03 (7주, 예정)                            |
-|                                | 원하는 위치 주변의 화장실을 표시해주는 서비스           |
-| Repository 바로가기 (Private 상태) | [Repository 바로가기](https://github.com/4ilet/Find_Toilet) |
-| 웹, 앱                         | 앱                                                      |
+| Bin:goT (빈 곳)                | 
+| ------------------------------ |
+| 빙고판에 입력한 목표를 달성해가는 서비스 |
+| 2023.01 ~ 2023.10 (36주, 예정)  |
+| Repository 바로가기 (Private 상태) <br> Play Store 바로가기 (미출시 상태)  | <br>
+
 <br>
 
- 
 ## ⚙️ 기술 스킬
 
 | Algorithm | Backend | Frontend | Communication tool |
@@ -41,7 +40,11 @@
 
 <br>
 
+### 알고리즘 스터디 진행 중!
+[알고리즘 스터디 Repository](https://github.com/2023-ssafy-study/Problem-Solving) <br>
+
 ### 1일 1알고리즘 진행 중!! 
 [문제 풀이 Repository](https://github.com/hitriee/problem_solving) <br><br>
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=pubhan35" /> <img src="http://mazandi.herokuapp.com/api?handle=pubhan35&theme=warm"/>  <br>
+<br>
 
