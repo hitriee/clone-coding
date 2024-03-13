@@ -29,6 +29,7 @@
 [알고리즘 스터디 Repository](https://github.com/2023-ssafy-study/Problem-Solving) / [이전 알고리즘 스터디 Repository](https://github.com/yeolsim2hajo/Team_hard) <br>
 
 ### 알고리즘 문제 풀기
-[개인 문제 풀이 Repository](https://github.com/hitriee/problem_solving) <br><br>
-<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=pubhan35" /> <img src="http://mazandi.herokuapp.com/api?handle=pubhan35&theme=warm"/>  <br>
+[개인 문제 풀이 Repository](https://github.com/hitriee/problem_solving) / [코드 트리 문제 풀이 Repository](https://github.com/hitriee/codetree-TILs) <br><br>
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=pubhan35" /> <img src="http://mazandi.herokuapp.com/api?handle=pubhan35&theme=warm"/>  <br><br>
+[![코드트리|실력진단-ilwoldeveloper](https://banner.codetree.ai/v1/banner/ilwoldeveloper)](https://www.codetree.ai/profiles/ilwoldeveloper)
 
