@@ -22,10 +22,13 @@
 
 <br>
 
-### 알고리즘 스터디 진행 중!
+### 취업 준비 활동 기록 중 (2024.12.16 ~)
+[TIL (Today I Learn)](https://github.com/hitriee/TIL2025)
+
+### 진행했던 알고리즘 스터디 기록
 [알고리즘 스터디 Repository](https://github.com/2023-ssafy-study/Problem-Solving) / [이전 알고리즘 스터디 Repository](https://github.com/yeolsim2hajo/Team_hard) <br>
 
-### 알고리즘 문제 풀기
+### 알고리즘 문제 풀이 기록
 [개인 문제 풀이 Repository](https://github.com/hitriee/problem_solving) / [코드 트리 문제 풀이 Repository](https://github.com/hitriee/codetree-TILs) <br><br>
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=pubhan35" /> <img src="http://mazandi.herokuapp.com/api?handle=pubhan35&theme=warm"/>  <br><br>
 [![코드트리|실력진단-ilwoldeveloper](https://banner.codetree.ai/v1/banner/ilwoldeveloper)](https://www.codetree.ai/profiles/ilwoldeveloper)
