@@ -22,9 +22,6 @@
 
 <br>
 
-### 취업 준비 활동 기록 중 (2024.12.16 ~)
-[TIL (Today I Learn)](https://github.com/hitriee/TIL2025)
-
 ### 진행했던 알고리즘 스터디 기록
 [알고리즘 스터디 Repository](https://github.com/2023-ssafy-study/Problem-Solving) / [이전 알고리즘 스터디 Repository](https://github.com/yeolsim2hajo/Team_hard) <br>
 
